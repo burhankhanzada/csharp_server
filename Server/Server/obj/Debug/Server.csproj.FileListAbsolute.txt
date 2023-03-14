@@ -1,0 +1,8 @@
+C:\Users\Burhan\source\repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Burhan\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\Burhan\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\Burhan\source\repos\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Burhan\source\repos\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burhan\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Burhan\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\Burhan\source\repos\Server\Server\obj\Debug\Server.pdb
